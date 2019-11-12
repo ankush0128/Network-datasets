@@ -2,7 +2,7 @@
 
 A human protein-protein interaction map, was collected from public databases like BioGrid, HPRD, MINT, and Pathway Interaction Database, which are curated from high-throughput datasets, as well as from individual studies on interactions published in peer reviewed journals. A global human proteome interaction map was collected from public databases containing non-redundant, loops exempt, experimentally validated undirected physical protein–protein binary interactions. The dataset is cross checked with manually curated by CBMC of University of Verona. The data is converted to Simple interaction format from HUPO Proteomics standard Initiative format (MITAB or PSI-MI XML 2.5). HUPO, PSI defines community standards for data representation in proteomics to facilitate data comparison, exchange and verification for these resources.
 
-*References for the PPIN Datasets :please cite if using this dataset* 
+# References for the PPIN Datasets :please cite if using this dataset
 
 1. Sharma A, Cinti C, Capobianco E. Multitype Network-Guided Target Controllability in Phenotypically Characterized Osteosarcoma: Role of Tumor Microenvironment. Front Immunol. 2017;8:918. Published 2017 Jul 31. https://doi.org/10.3389/fimmu.2017.00918
 
