@@ -11,3 +11,6 @@ A human protein-protein interaction map, was collected from public databases lik
 3. Sharma A, Gautam V, Costantini S, Paladino A, Colonna G. Interactomic and pharmacological insights on human sirt-1. Front Pharmacol. 2012;3:40. Published 2012 Mar 23. https://doi.org/10.3389/fphar.2012.00040
 
 4. Sharma A, Costantini S,Colonna G. (2013) The protein–protein interaction network of the human Sirtuin family,Biochimica et Biophysica Acta (BBA) - Proteins and Proteomics, Volume 1834, Issue 10, Pages 1998-2009, ISSN 1570-9639,https://doi.org/10.1016/j.bbapap.2013.06.012.
+
+5. Scardoni G, Tosadori G, Pratap S et al. Finding the shortest path with PesCa: a tool for network reconstruction [version 2; peer review: 2 approved, 2 approved with reservations]. F1000Research 2016, 4:484 (https://doi.org/10.12688/f1000research.6769.2)
+
